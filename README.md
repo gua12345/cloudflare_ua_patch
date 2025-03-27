@@ -1,0 +1,3 @@
+其实cloudflare对ua的检测就是检测sec-ch-ua以及sec-ch与ua的差异，把sec-ch相关请求头删除也能过，不过还是我还是保留了
+
+像往常加插件一样加上就行了
